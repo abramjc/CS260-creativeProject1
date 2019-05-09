@@ -53,6 +53,10 @@ div.card {
     box-shadow: 0 4px 6px 0 rgba(0,0,0,0.16),0 4px 10px 0 rgba(0,0,0,0.12);
 }
 
+.intro {
+    margin-left: 2em;
+    margin-right: 2em;
+}
 
 #me {
    margin: 2em; 
