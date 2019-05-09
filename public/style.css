@@ -1,8 +1,8 @@
 html {
-    background-color: #6ddb73;
+    background-color: #5dc5d1;
 }
 body {
-    background-color: #6ddb73;
+    background-color: #5dc5d1;
 }
 
 img {
@@ -17,7 +17,7 @@ ul {
 .header {
     /*background-color: #e0e0e0; */
     /*background-color: #d6adff;*/
-    background-color: #ead6ff;
+    background-color: rgba(210, 210, 210, 0.85);
 }
 
 .container {

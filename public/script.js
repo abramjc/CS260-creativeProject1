@@ -43,8 +43,8 @@ function changeBackground() {
 function resetBackground() {
     delCookie("backgroundColor");
 
-    document.getElementsByTagName("body")[0].style.backgroundColor = "#4EACDE";
-    document.getElementsByTagName("html")[0].style.backgroundColor = "#4EACDE";
+    document.getElementsByTagName("body")[0].style.backgroundColor = "#5dc5d1";
+    document.getElementsByTagName("html")[0].style.backgroundColor = "#5dc5d1";
 }
 
 function setBackground() {
